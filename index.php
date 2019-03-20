@@ -1,3 +1,3 @@
 <?php 
-    echo 'Hi';
+    echo 'Hi, it is Simon`s first app';
 ?>
